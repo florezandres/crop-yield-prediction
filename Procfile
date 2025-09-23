@@ -1,1 +1,1 @@
-web: gunicorn 'crop-yield-prediction.app:app'
+web: gunicorn src.app:app
